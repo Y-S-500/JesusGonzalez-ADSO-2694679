@@ -1,5 +1,5 @@
 # JesusGonzalez-ADSO-2694679
-Aqui se encuentran todo lo que emos realizado con el lider de la ficha 
+Aqui se encuentran todo lo que hemos realizado con el lider de la ficha 
 # Los demas trabajos del cuarto Trimestre
 
 * 📁 [Emisora_Proyect](https://github.com/Y-S-500/Emisora_Proyect).
