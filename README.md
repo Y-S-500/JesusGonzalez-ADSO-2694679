@@ -1,6 +1,7 @@
 # JesusGonzalez-ADSO-2694679
 Aqui se encuentran todo lo que hemos realizado con el lider de la ficha 
-# Los demas trabajos del cuarto Trimestre
+
+# Los  trabajos mas importantes del cuarto Trimestre:
 
 * 📁 [Emisora_Proyect](https://github.com/Y-S-500/Emisora_Proyect).
 Repositorio que contiene un proyecto de emisora con fundamentos en bases de datos y Java 🧮.
