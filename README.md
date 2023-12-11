@@ -16,5 +16,5 @@ Repositorio que contiene un proyecto de ubicacion con fundamentos en bases de da
 link que contine las exposiciones del tercer trimestre   💾.
 
 * 📁 [Examen](https://github.com/Y-S-500/JesusGonzalez-ADSO-2694679/blob/4778a45bbf850dbcd0138a050612d060da0e4947/Examen-ubicacion.zip).
-  link que contiene el examen del fin de semestre
+  link que contiene el examen del fin de semestre en un archivo comprimido.zip
 
