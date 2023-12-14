@@ -1,7 +1,7 @@
 # JesusGonzalez-ADSO-2694679
 Aqui se encuentran todo lo que hemos realizado con el lider de la ficha 
 
-# Los  trabajos mas importantes del cuarto Trimestre:
+# Los  trabajos mas importantes del IV Trimestre:
 
 🤖 Repositorio que contiene un proyecto de👨🏻‍💻 carrito_compra con practicas de servicios,java nativo,bases de datos 🧮:
 - 📦 [Carrito-Frontend](https://github.com/Y-S-500/JesusGonzalez-ADSO-2694679/blob/master/Carrito-Frontend.zip),
