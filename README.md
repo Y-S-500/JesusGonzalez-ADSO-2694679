@@ -6,9 +6,9 @@ Aqui se encuentran todo lo que hemos realizado con el lider de la ficha
 * 📁 [Emisora_Proyect](https://github.com/Y-S-500/Emisora_Proyect).
 Repositorio que contiene un proyecto de emisora con fundamentos en bases de datos y Java 🧮.
 
-*Repositorio que contiene un proyecto de carrito_compra con practicas de servicios,java nativo,bases de datos 🧮:
-- [Carrito-Frontend](https://github.com/Y-S-500/JesusGonzalez-ADSO-2694679/blob/master/Carrito-Frontend.zip).
-- [carrito-backend](https://github.com/Y-S-500/JesusGonzalez-ADSO-2694679/blob/master/carrito-backend.zip).
+*🤖Repositorio que contiene un proyecto de carrito_compra con practicas de servicios,java nativo,bases de datos 🧮:
+- 📦 [Carrito-Frontend](https://github.com/Y-S-500/JesusGonzalez-ADSO-2694679/blob/master/Carrito-Frontend.zip),
+- 📦 [carrito-backend](https://github.com/Y-S-500/JesusGonzalez-ADSO-2694679/blob/master/carrito-backend.zip).
 
 * 📁 [monolito-software-Inventory](https://github.com/Y-S-500/monolito-software-Inventory).
 Repositorio que contiene un proyecto de una tienda en Java 💾.
